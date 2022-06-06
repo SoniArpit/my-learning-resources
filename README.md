@@ -17,7 +17,8 @@
 |Django Rest Framework|[Blog API with Django Rest Framework](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTOcOVdZF-th7BS_GYGguAS)|CodingEntrepreneurs|YouTube|English|Teaches you how to create a REST API for the blog you created in the previous tutorial|
 |Django|[Try DJANGO Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW)|CodingEntrepreneurs|YouTube|English|Learn and master Django bit by bit in this series. It's a radical departure from our other Try Django series so be sure to subscribe to get everything|
 
+-------------------------------------------------------------------------------
 
-Add your learning resources which you already completed with feedback/review. Make sure it's not already on the list 
+Add your learning resources that you've already completed, yes with feedback/review. Make sure it's not already on the list 
 
 Happy Coding :)
