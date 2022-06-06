@@ -16,7 +16,8 @@
 |Django|[Advancing the Blog from Try Django 1.9](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQB82YbmKKBy2jKdzpZKczn)|CodingEntrepreneurs|YouTube|English|Advancing blog, required to watch previous tutorial|
 |Django Rest Framework|[Blog API with Django Rest Framework](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTOcOVdZF-th7BS_GYGguAS)|CodingEntrepreneurs|YouTube|English|Teaches you how to create a REST API for the blog you created in the previous tutorial|
 |Django|[Try DJANGO Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW)|CodingEntrepreneurs|YouTube|English|Learn and master Django bit by bit in this series. It's a radical departure from our other Try Django series so be sure to subscribe to get everything|
-
+|React Hooks|[React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)|Web Dev Simplified|YouTube|English|Beautifully explained with useful examples and tips|
+ 
 -------------------------------------------------------------------------------
 
 Add your learning resources that you've already completed, yes with feedback/review. Make sure it's not already on the list 
