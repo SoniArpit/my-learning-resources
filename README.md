@@ -18,6 +18,8 @@
 |Django|[Try DJANGO Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW)|CodingEntrepreneurs|YouTube|English|Learn and master Django bit by bit in this series. It's a radical departure from our other Try Django series so be sure to subscribe to get everything|
 |React Hooks|[React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)|Web Dev Simplified|YouTube|English|Beautifully explained with useful examples and tips|
 |Flutter |[Flutter](https://www.youtube.com/watch?v=4AoFA19gbLo&list=PLjxrf2q8roU3wk7CDw4RfV3mEwOJbjx1k&ab_channel=Flutter)|Official Flutter|YouTube|English|Short and Simple Explanation of Flutter by official Flutter Org |
+|Flutter |[Flutter](youtube.com/c/HelloCodepur)|Codepur|YouTube|English/Hindi|Flutter tutorials for absolute beginner to pro |
+|Bug Bounty |[Bug Bounty ](https://www.youtube.com/c/LiveOverflow)|Live Overflow|YouTube|English|Cyber Security & Bug Bounty |
 -------------------------------------------------------------------------------
 
 Add your learning resources that you've already completed, yes with feedback/review. Make sure it's not already on the list 
